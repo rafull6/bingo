@@ -1,0 +1,22 @@
+.num-container {
+    width: 30px;
+    height: 30px;
+    background-color: #999999;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.num-container--filled {
+    background-color: red;
+}
+
+.row-container {
+    display: flex;
+}
+
+.strip-container {
+    margin-bottom: 20px;
+}
